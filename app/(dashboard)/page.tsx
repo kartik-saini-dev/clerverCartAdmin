@@ -24,7 +24,7 @@ export default async function Home() {
     <div className="px-8 py-10">
       <div className="flex justify-between" >
       <p className="text-heading2-bold">Dashboard</p>
-      <span className="text-heading2-bold"><a href="http://localhost:3001" target="_blank">Click to view store</a></span>
+      <span className="text-heading2-bold"><a href="https://clever-cart-store.vercel.app/" target="_blank">Click to view store</a></span>
       </div>
      
       <Separator className="bg-grey-1 my-5" />
